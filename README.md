@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <a href="https://w.app/Mmutjh" target="_blank">
+  <a href="https://wa.me/51940623392?text=Hola%20Gino,%20te%20contacto%20desde%20GitHub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="50" alt="whatsapp logo" />
   </a>
   <a href="https://www.instagram.com/ginocotos" target="_blank">
