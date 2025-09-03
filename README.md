@@ -1,56 +1,71 @@
-<h1 align="left">Hello 👋 I'm Gino.</h1>
+<h1 align="center">Hi 👋, I'm Gino</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="center">💻 Junior Software Developer | Passionate Learner | Tech Enthusiast</h3>
 
 ###
 
-<p align="left">📚 Self-taught junior programmer in constant learning.<br>✨ Passionate about new technologies and solving problems.<br>👨‍💻 Collaborative and willing to learn from others.<br>🎯 I am looking to collaborate on projects</p>
+<p align="center">
+  🚀 Self-taught developer constantly exploring new technologies.<br>
+  🌱 Currently learning and improving my skills in full-stack development.<br>
+  🤝 Open to collaborate on exciting projects and contribute to the community.<br>
+  🎯 My goal is to grow as a developer and build impactful solutions.
+</p>
 
-###
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gin-MC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gin-MC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Gin-MC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gin-MC&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gin-MC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
-
-###
-
-<h2 align="center">Technologies I know</h2>
-
-###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="50" alt="github logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="google logo"  />
+  <img src="https://streak-stats.demolab.com?user=Gin-MC&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
 </div>
 
-###
+---
 
-<h2 align="center">Social networks</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-###
+<div align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="TailwindCSS" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="Bootstrap" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="50" alt="Astro" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="Firebase" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="50" alt="Supabase" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="Git" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="50" alt="GitHub" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="C++" />
+</div>
+
+---
+
+<h2 align="center">🌐 Connect with me</h2>
 
 <div align="center">
   <a href="https://w.app/Mmutjh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="50" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/ginocotos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="Instagram"/>
   </a>
 </div>
+
